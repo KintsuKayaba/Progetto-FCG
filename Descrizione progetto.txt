@@ -1,3 +1,5 @@
+Link Presentazione: https://1drv.ms/p/c/3bbc901767e0b390/EbpIB8fSRAtOhay3BOMg9ZIBAQzMTH9oUB4UOdk-sJ9zOw?e=VGLEIg 
+
 File 1:
 Ho creato una sfera e l’ho duplicata. Ho ridotto le dimensioni della sfera superiore e unito le due mesh con Join. Successivamente ho applicato Shade Smooth per rendere la superficie più liscia. Ho poi aggiunto un cono per creare un orecchio, applicato Shade Smooth, e l’ho duplicato per creare anche l’altro orecchio. Infine ho unito tutto in un unico oggetto.
 
