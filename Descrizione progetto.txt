@@ -1,0 +1,23 @@
+File 1:
+Ho creato una sfera e l’ho duplicata. Ho ridotto le dimensioni della sfera superiore e unito le due mesh con Join. Successivamente ho applicato Shade Smooth per rendere la superficie più liscia. Ho poi aggiunto un cono per creare un orecchio, applicato Shade Smooth, e l’ho duplicato per creare anche l’altro orecchio. Infine ho unito tutto in un unico oggetto.
+
+File 2:
+Ho creato un cilindro e l’ho adattato, trasformato e posizionato per usarlo come braccio. In Edit Mode ho utilizzato Ctrl+R per inserire 3 tagli (loop cut), in modo da facilitare lo sculpting successivo. Ho poi utilizzato Extrude e spostato i vertici per creare una forma a “piramide”. In Sculpt Mode ho usato il pennello Brush per ammorbidire i bordi e rendere la forma meno spigolosa. Successivamente ho duplicato il braccio e l’ho specchiato per creare l’altro lato, unendo infine tutto con Join.
+
+File 3:
+Ho preso un cono e l’ho scalato per adattarlo alla forma di un’unghia. Dopo aver creato un’unghia, l’ho duplicata fino a formare un set di 8 unghie (4 per ogni mano). Una volta sistemate le unghie nelle rispettive posizioni, ho applicato Shade Smooth per rendere la superficie liscia e poi unito tutto con Join. Successivamente ho aumentato i loop cut sulla pancia (Ctrl+R) e in Sculpt Mode ho utilizzato il pennello Grab per ingrandire la pancia e Smooth per rifinire le superfici.
+
+File 4:
+Ho creato un cilindro e l’ho adattato per formare una zampa inferiore. Per poter scolpire meglio alcune parti, ho usato Inset (I) per aggiungere più vertici alla superficie. Con un mix di Grab e Silhouette Grab ho sollevato alcune parti della zampa, dandole una forma più ovale e uniforme, perfezionata con Shade Smooth e il pennello Brush. Dopo aver completato una zampa, l’ho duplicata, specchiata e posizionata dall’altro lato. Come per le zampe superiori, ho creato 6 coni per simulare le unghie, adattandoli e applicando Shade Smooth. Una volta sistemato tutto, ho unito le mesh con Join. Infine, ho raffinato ulteriormente il corpo di Snorlax, aggiungendo nuovi tagli e utilizzando i pennelli Grab, Elastic Grab e Smooth per sistemare le proporzioni e lisciare le superfici.
+
+File 5:
+In questa fase ho lavorato sulla testa. In Edit Mode ho selezionato le facce con lo strumento C e separato la forma con P → Selection. Dopo averla separata, l’ho riproporzionata e suddivisa con Subdivide per ottenere più vertici e migliorare la modellazione. Ho fatto lo stesso procedimento anche per le due orecchie: le ho separate e poi modificate allo stesso modo.
+
+File 6:
+Ho iniziato a dare colore a Snorlax. In Edit Mode ho selezionato con C tutte le facce delle zampe inferiori e le ho mappate con U → Smart UV Project. In Shading ho poi creato i materiali con i colori desiderati. Ho ripetuto lo stesso procedimento per unghie, corpo, testa e orecchie. Infine, nella sezione Texture Paint, ho usato il pennello Paint Hard per colorare le parti della pancia e della testa con i colori blu (#002CFFFF) e panna (#F8E3B3).
+
+File 7:
+Dopo aver completato la colorazione, ho disegnato occhi e bocca con Texture Paint. Successivamente ho creato un’animazione di caduta. Ho unito tutti gli elementi con Join e impostato i keyframe sulla timeline (frame 1, 20, 60) a 30 fps. Al frame 1 ho posizionato Snorlax dritto e premuto I per inserire il keyframe. Al frame 20 l’ho ruotato di 20° sull’asse Y (R → Y → 20°) e salvato con I. Al frame 60 l’ho posizionato a terra con un’inclinazione di 90°. Per rendere il movimento più fluido, ho impostato l’Interpolation Mode su Bezier.
+
+File 8:
+Infine, ho creato l’animazione della caduta su una nuvola. Ho generato un piano per fare da appoggio alla nuvola e ho applicato Object → Quick Effects → Quick Smoke per aggiungere l’effetto fumo.
